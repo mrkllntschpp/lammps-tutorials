@@ -7,3 +7,6 @@ These tutorials were recreated from my original tutorials at Mississippi State U
 * [Click here to open Tutorial 3](LAMMPS-Tutorials-03.ipynb)
 
 I've even tried to update the scripts here to some of the newer LAMMPS versions.  So far so good!
+
+Beginner to Python, Anaconda, Jupyter Notebooks, too?
+* [Click here for a brief intro](HowToJupyterNotebook.ipynb)
