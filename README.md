@@ -2,7 +2,7 @@
 
 These tutorials were recreated from my original tutorials at Mississippi State University (MSU) Center for Advanced Vehicular Systems (CAVS) website with updates to codes within Jupyter Notebooks.  I hope this helps with everyone's learning curves for LAMMPS!  Thanks.
 
-* [Click here to open Tutorial 1](LAMMPS-Tutorials-01.ipynb). Run LAMMPS! Calculate the minimum energy lattice structure
+* [Click here to open Tutorial 1](LAMMPS-Tutorials-01.ipynb). Run LAMMPS! Learn how to calculate the minimum energy lattice structure
 * [Click here to open Tutorial 2](LAMMPS-Tutorials-02.ipynb). Run LAMMPS! Learn how to feed variables through the command line and mine log file for values to plot in MATLAB or Python
 * [Click here to open Tutorial 3](LAMMPS-Tutorials-03.ipynb). Run LAMMPS! Learn how to deform a simulation cell in tension and visualize the results
 * [Click here to open Tutorial 4](LAMMPS-Tutorials-04.ipynb). Run LAMMPS! Learn how to deform a simulation cell in compression and visualize the results
