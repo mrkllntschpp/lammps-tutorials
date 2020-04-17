@@ -9,6 +9,7 @@ These tutorials were recreated from my original tutorials at Mississippi State U
 * [Click here to open Tutorial 5](LAMMPS-Tutorials-05.ipynb). Run LAMMPS! Learn how to make a grain boundary
 * [Click here to open Tutorial 6](LAMMPS-Tutorials-06.ipynb). Run LAMMPS! Learn how to strain a grain boundary until fracture
 * [Click here to open Tutorial 7](LAMMPS-Tutorials-07.ipynb). Run LAMMPS! Learn how to compute a number of per-atom metrics for use outside LAMMPS
+* [Click here to open Tutorial 8](LAMMPS-Tutorials-08.ipynb). Run LAMMPS! Learn how to add a 100-united atom polymer chain to LAMMPS
 
 I've even tried to update the scripts here to some of the newer LAMMPS versions.  So far so good!
 
